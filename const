@@ -1,0 +1,6 @@
+import 'dart:ui';
+
+final primaryLight = Color(0xFFFEEAE6);
+final primaryMedium = Color(0xFFFEDBD0);
+final primaryDark = Color(0xFF442C2E);
+final white = Color(0xFFFFFFFF);
